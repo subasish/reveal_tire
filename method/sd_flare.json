@@ -1,0 +1,60 @@
+{
+ "name": "Project Start",
+ "children": [
+  {
+   "name": "Data Preparation",
+   "children": [
+    {
+     "name": "Police Reported Data",
+     "children": [
+      {"name": "Data Collection from LaDOTD", "size": 3938},
+      {"name": "Data Wrangling", "size": 3812},
+      {"name": "Final Dataset", "size": 6714}
+     ]
+    },
+    {
+     "name": "SHRP-2 NDS Data",
+     "children": [
+      {"name": "Data Collection from SHRP-2", "size": 3534},
+      {"name": "Data Wrangling", "size": 5731},
+      {"name": "Final Dataset", "size": 3416}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Data Mining",
+   "children": [
+    {"name": "Research Synthesis", "size": 5842},
+    {
+     "name": "Machine Learning Approach",
+     "children": [
+      {"name": "Associaiton Rules", "size": 1983},
+      {"name": "Mostly Associated Patterns", "size": 2047},
+      {"name": "Rules Development", "size": 1375}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Analysis of Results",
+   "children": [
+    {"name": "Important Rules Extraction", "size": 772},
+    {"name": "Discussion and Recommendations", "size": 3322}
+   ]
+  },
+  {
+   "name": "Community Outreach",
+   "children": [
+    {"name": "High School Lectures", "size": 8833},
+    {"name": "Workshop for Underrepresented Group", "size": 1732}
+   ]
+  },
+  {
+   "name": "Webtool Development"
+  },
+  {
+   "name": "Final Report"
+  }
+ ]
+}
